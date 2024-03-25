@@ -1,7 +1,7 @@
 {
   "name": "website-react",
   "version": "0.1.0",
-  "homepage": "https://Samsher-Gadkary.github.io/",
+  "homepage": "https://sgadkar2.github.io/github-portfolio",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",

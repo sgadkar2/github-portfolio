@@ -16,7 +16,7 @@ const Navbar = () => {
       <nav className="navbar" onClick={e => e.stopPropagation()}>
         <div className="nav-container">
           <NavLink exact to="/" className="nav-logo">
-            Aakriti Kedia
+            Samsher Gadkary
           </NavLink>
 
           <ul class="nav-menu">
